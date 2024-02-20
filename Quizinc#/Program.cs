@@ -5,8 +5,7 @@
 
 
 
-class Program
-{
+
     static void Main(string[] args)
     {
         int temp = 0;
@@ -117,8 +116,7 @@ class Program
                 }
             } while (true);
         }
-    }
-}
+    
 
 
 
